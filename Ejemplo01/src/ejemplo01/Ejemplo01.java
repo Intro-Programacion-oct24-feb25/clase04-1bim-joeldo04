@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // nombreEstudiante es una varibale la cusl no se puede cambiar su valor por que ya esta declarada
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }

@@ -18,5 +18,6 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // El "println" me imprime y da un salto de linea, mientras que "print" solo imprime. 
     }
 }
